@@ -2,3 +2,5 @@
 simon
 peter
 josh
+janet
+chi
