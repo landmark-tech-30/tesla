@@ -2,5 +2,5 @@
 simon
 peter
 josh
-janet
-chi
++janet
++chi
